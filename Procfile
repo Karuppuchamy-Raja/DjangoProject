@@ -1,0 +1,1 @@
+web: gunicorn pharmeasy.wsgi --log-file -
